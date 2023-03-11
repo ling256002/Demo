@@ -33,6 +33,9 @@ int main(void) {
 
 
 	//rectangle(102, 222, 209, 333);
+	rectangle(300, 340, 550, 380);
+	outtextxy(310, 345, _T("6-ÍË³ö"));
+
 
 
 	system("pause");
